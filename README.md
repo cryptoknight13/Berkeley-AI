@@ -1,6 +1,11 @@
 # Berkeley-AI
 
-## ASSINGMENT 2
+## ASSINGMENT 1 - turorial
+
+Basic Interactions nothing else.
+Just take a look if you wants.
+
+## ASSINGMENT 2 - search
 
 ## Edited Files:
 -search.py Where all of your search algorithms will reside.
@@ -14,7 +19,7 @@
 
 -util.py Useful data structures for implementing search algorithms.
 
-## ASSINGMENT 3
+## ASSINGMENT 3 - reinforcement
 
 ### Edited Files:
 valueIterationAgents.py: A value iteration agent for solving known MDPs.
