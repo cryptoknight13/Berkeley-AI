@@ -1,13 +1,13 @@
 # Berkeley-AI
 
-#Edited Files:
+## Edited Files:
 valueIterationAgents.py: A value iteration agent for solving known MDPs.
 
 qlearningAgents.py: Q-learning agents for Gridworld, Crawler and Pacman.
 
 analysis.py: A file to put your answers to questions given in the project.
 
-#Files you should go through:
+## Files you should go through:
 mdp.py: Defines methods on general MDPs.
 
 learningAgents.py: Defines the base classes ValueEstimationAgent and QLearningAgent, which your agents will extend.
