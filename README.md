@@ -1,5 +1,19 @@
 # Berkeley-AI
 
+## ASSINGMENT 2
+
+## Edited Files:
+-search.py Where all of your search algorithms will reside.
+
+-searchAgents.py Where all of your search-based agents will reside.
+
+### Files you should go through:
+-pacman.py The main file that runs Pacman games. This file describes a Pacman GameState type, which you use in this project.
+
+-game.py The logic behind how the Pacman world works. This file describes several supporting types like AgentState, Agent, Direction, and Grid.
+
+-util.py Useful data structures for implementing search algorithms.
+
 ## ASSINGMENT 3
 
 ### Edited Files:
